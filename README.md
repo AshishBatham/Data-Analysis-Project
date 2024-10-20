@@ -6,6 +6,8 @@ This project analyzes fitness tracker data to extract insights related to physic
 
 ## Dataset
 
+You can download the dataset from [dailyActivity_merged.csv](https://drive.google.com/file/d/1oqrpLWvL1OtpuSqGaQ_vpd0K2Zx-Hn_s/view?usp=drive_link).
+
 The dataset used in this project is a CSV file containing the following columns:
 
 - **Id**: Unique identifier for each user.
