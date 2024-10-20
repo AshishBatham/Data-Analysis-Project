@@ -1,4 +1,4 @@
-# Fitness Tracker Data Analysis
+# FitBit Fitness Tracker Data Analysis
 
 ## Overview
 
