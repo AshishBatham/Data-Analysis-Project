@@ -11,13 +11,13 @@ The dataset used in this project is a CSV file containing the following columns:
 - **Id**: Unique identifier for each user.
 - **ActivityDate**: Date of the recorded activity.
 - **TotalSteps**: Total number of steps taken in a day.
-- **TotalDistance**: Total distance covered (in miles).
-- **TrackerDistance**: Distance tracked by the fitness device (in miles).
-- **LoggedActivitiesDistance**: Distance from logged activities (in miles).
-- **VeryActiveDistance**: Distance covered during very active minutes (in miles).
-- **ModeratelyActiveDistance**: Distance covered during moderately active minutes (in miles).
-- **LightActiveDistance**: Distance covered during light active minutes (in miles).
-- **SedentaryActiveDistance**: Distance covered during sedentary periods (in miles).
+- **TotalDistance**: Total distance covered (in km).
+- **TrackerDistance**: Distance tracked by the fitness device (in km).
+- **LoggedActivitiesDistance**: Distance from logged activities (in km).
+- **VeryActiveDistance**: Distance covered during very active minutes (in km).
+- **ModeratelyActiveDistance**: Distance covered during moderately active minutes (in km).
+- **LightActiveDistance**: Distance covered during light active minutes (in km).
+- **SedentaryActiveDistance**: Distance covered during sedentary periods (in km).
 - **VeryActiveMinutes**: Number of minutes spent in very active activities.
 - **FairlyActiveMinutes**: Number of minutes spent in fairly active activities.
 - **LightlyActiveMinutes**: Number of minutes spent in lightly active activities.
